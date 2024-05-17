@@ -1,0 +1,22 @@
+
+
+java:S1192"SDefine a constant instead of duplicating this literal "/api/bookings/{id}" 3 times.(âä£HmRCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192i"PDefine a constant instead of duplicating this literal "/api/staff/{id}" 3 times.(ıñ‰øÿÿÿÿHqRCRITICALZ
+CODE_SMELL
+„
+java:S1192f"VDefine a constant instead of duplicating this literal "http://localhost:8084" 5 times.(ñ—âªHuRCRITICALZ
+CODE_SMELL
+„
+java:S1192,"VDefine a constant instead of duplicating this literal "http://localhost:8083" 6 times.(§·ÏùH{RCRITICALZ
+CODE_SMELL
+…
+java:S1192"VDefine a constant instead of duplicating this literal "http://localhost:8082" 5 times.(Ğ—şÄH‚RCRITICALZ
+CODE_SMELL
+Š
+java:S1192K"VDefine a constant instead of duplicating this literal "http://localhost:8081" 5 times.(¬éÈ”ÿÿÿÿÿHˆRCRITICALZ
+CODE_SMELL
+ƒ
+java:S11923"TDefine a constant instead of duplicating this literal "/api/inventory/{id}" 3 times.(­à“ÚHRCRITICALZ
+CODE_SMELL

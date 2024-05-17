@@ -1,0 +1,10 @@
+
+v
+java:S4684R"@Replace this persistent entity with a simple POJO or DTO object.(ž³¬«øÿÿÿÿHARCRITICALZVULNERABILITY
+T
+java:S14527"&Remove usage of generic wildcard type.(¹’Ë§H7RCRITICALZ
+CODE_SMELL
+q
+java:S4684K"@Replace this persistent entity with a simple POJO or DTO object.(’Éë“H8RCRITICALZVULNERABILITY
+f	java:S125A"<This block of commented-out lines of code should be removed.(šÊ°ìH9RMAJORZ
+CODE_SMELL

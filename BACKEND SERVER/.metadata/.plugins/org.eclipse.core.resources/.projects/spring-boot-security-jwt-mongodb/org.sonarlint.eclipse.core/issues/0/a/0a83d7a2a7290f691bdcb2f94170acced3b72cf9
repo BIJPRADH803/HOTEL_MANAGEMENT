@@ -1,0 +1,22 @@
+
+T
+java:S1452;"&Remove usage of generic wildcard type.(—­θ€HTRCRITICALZ
+CODE_SMELL
+Z
+java:S1452…"&Remove usage of generic wildcard type.(Ιϋί©ϊÿÿÿÿHXRCRITICALZ
+CODE_SMELL
+U
+java:S5411W"*Use the primitive boolean expression here.(‰ΣHQRMINORZ
+CODE_SMELL
+Y
+java:S1452P"&Remove usage of generic wildcard type.(ιγ°ιϊÿÿÿÿHWRCRITICALZ
+CODE_SMELL
+
+java:S1192g"ZDefine a constant instead of duplicating this literal "Error: Role is not found." 4 times.(ΙÿΚ–ωÿÿÿÿHIRCRITICALZ
+CODE_SMELL
+v
+java:S1612E"KReplace this lambda with method reference 'GrantedAuthority::getAuthority'.(΅©ι½HURMINORZ
+CODE_SMELL
+U
+java:S5411Q"*Use the primitive boolean expression here.(‡Φ…²HNRMINORZ
+CODE_SMELL
